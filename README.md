@@ -28,7 +28,7 @@
 
 #
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jugaman&layout=compact&size_weight=0.5&count_weight=0.5&card_width=320px&bg_color=00000000&text_color=CBDAE6&title_color=18F018&langs_count=20&hide_border=true" alt="Top Languages">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jugaman&layout=compact&size_weight=0.5&count_weight=0.5&card_width=328px&bg_color=00000000&text_color=CBDAE6&title_color=18F018&langs_count=20&hide_border=true" alt="Top Languages">
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Jugaman&layout=compact&bg_color=00000000&text_color=CBDAE6&title_color=18F018&langs_count=20&hide_border=true" alt="Jugaman's WakaTime Stats">
 

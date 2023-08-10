@@ -28,9 +28,9 @@
 
 #
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jugaman&layout=compact&size_weight=0.5&count_weight=0.5&card_width=450px&bg_color=00000000&text_color=CBDAE6&title_color=18F018&langs_count=20&hide_border=true" alt="Top Languages">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jugaman&layout=compact&size_weight=0.5&count_weight=0.5&card_width=320px&bg_color=00000000&text_color=CBDAE6&title_color=18F018&langs_count=20&hide_border=true" alt="Top Languages">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Jugaman&layout=compact&card_width=700&bg_color=00000000&text_color=CBDAE6&title_color=18F018&langs_count=20&hide_border=true" alt="Jugaman's WakaTime Stats">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Jugaman&layout=compact&bg_color=00000000&text_color=CBDAE6&title_color=18F018&langs_count=20&hide_border=true" alt="Jugaman's WakaTime Stats">
 
 ---
 
@@ -41,3 +41,6 @@
       <a href="https://github.com/Jugaman?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Jugaman?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{Jugaman}/count.svg" alt="AnhellO :: Visitor's Count" /></p>

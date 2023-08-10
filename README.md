@@ -8,7 +8,6 @@
 
 ---
 
-
 ### 🛠️ Technologies and Tools:
 <img align="left" alt="Java"       width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring"     width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -41,6 +40,6 @@
       <a href="https://github.com/Jugaman?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Jugaman?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
-<h4 align="center">Visitor's count :eyes:</h4>
+<h3 align="center">Visitor's count <img align="justify" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="25" height="22" /></h3>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Jugaman}/count.svg" alt="AnhellO :: Visitor's Count" /></p>

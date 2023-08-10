@@ -3,7 +3,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Jugaman&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&disable_animations=true&title_color=18F018&icon_color=B36400&text_color=CBDAE6&ring_color=FB8C00&card_width=270px&rank_icon=percentile" alt="GitHub Stats">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jugaman&hide_border=true&card_width=375px&stroke=CBDAE6&ring=FB8C00&background=00000000&fire=B63514&currStreakNum=18F018&sideNums=18F018&currStreakLabel=CBDAE6&sideLabels=CBDAE6&dates=CBDAE6" alt="GitHub Streak Stats">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jugaman&hide_border=true&card_width=386px&stroke=CBDAE6&ring=FB8C00&background=00000000&fire=B63514&currStreakNum=18F018&sideNums=18F018&currStreakLabel=CBDAE6&sideLabels=CBDAE6&dates=CBDAE6" alt="GitHub Streak Stats">
 
 
 ---

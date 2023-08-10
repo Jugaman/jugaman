@@ -28,13 +28,12 @@
 
 #
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jugaman&layout=compact&size_weight=0.5&count_weight=0.5&card_width=900px&bg_color=00000000&text_color=CBDAE6&text_bold=true&title_color=18F018&langs_count=20&hide_border=true" alt="Top Languages">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jugaman&layout=compact&size_weight=0.5&count_weight=0.5&card_width=450px&bg_color=00000000&text_color=CBDAE6&title_color=18F018&langs_count=20&hide_border=true" alt="Top Languages">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Jugaman&layout=compact&card_width=700&bg_color=00000000&text_color=CBDAE6&title_color=18F018&langs_count=20&hide_border=true" alt="Jugaman's WakaTime Stats">
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Jugaman" alt="Harlok's WakaTime Stats">
-
----
 
    <p align="center">
       <a href="https://github.com/Jugaman?tab=followers">

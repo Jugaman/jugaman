@@ -4,7 +4,7 @@
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Jugaman&&show_icons=true&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000&disable_animations=true" alt="GitHub Stats">
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jugaman&theme=chartreuse-dark&hide_border=true&background=00000000&disable_animations=true&card_width=390" alt="GitHub Streak Stats">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Jugaman&theme=chartreuse-dark&hide_border=true&background=00000000&disable_animations=true&card_width=320" alt="GitHub Streak Stats">
 
 
 

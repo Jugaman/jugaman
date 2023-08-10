@@ -32,7 +32,6 @@
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Jugaman&layout=compact&bg_color=00000000&text_color=CBDAE6&title_color=18F018&langs_count=20&hide_border=true" alt="Jugaman's WakaTime Stats">
 
 ---
-<br>
 
 <h3 align="center">Visitor's count <img align="justify" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="25" height="22" /></h3>
 

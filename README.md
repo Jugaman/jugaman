@@ -32,4 +32,6 @@
 
 <h3 align="center">Visitor's count <img align="justify" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="25" height="22" /></h3>
 
+<img align="center" src="https://www.codewars.com/users/Jugaman/badges/large" alt="Codewars Badge">
+
 <p align="center"><img src="https://profile-counter.glitch.me/{Jugaman}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
